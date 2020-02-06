@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{CFEDA944-696F-4F7B-9947-51409D67A967}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="countrylist.api.ses/Data/CountryList.json">
+    <Files>
+      <File FileName="countrylist.api.ses/Controllers/WeatherForecastController.cs" Line="23" Column="30" />
+      <File FileName="countrylist.api.ses/Country.cs" Line="11" Column="1" />
+      <File FileName="countrylist.api.ses/Controllers/CountryController.cs" Line="43" Column="10" />
+      <File FileName="countrylist.api.ses/Data/CountryList.json" Line="22" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="api.ses" expanded="True">
+            <Node name="countrylist.api.ses" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="CountryList.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.countrylist.api.ses PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
