@@ -1,19 +1,20 @@
 ﻿<Properties StartupConfiguration="{CFEDA944-696F-4F7B-9947-51409D67A967}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="countrylist.api.ses/Data/CountryList.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
     <Files>
-      <File FileName="countrylist.api.ses/Controllers/WeatherForecastController.cs" Line="23" Column="30" />
+      <File FileName="countrylist.api.ses/Controllers/WeatherForecastController.cs" Line="38" Column="10" />
       <File FileName="countrylist.api.ses/Country.cs" Line="11" Column="1" />
-      <File FileName="countrylist.api.ses/Controllers/CountryController.cs" Line="43" Column="10" />
-      <File FileName="countrylist.api.ses/Data/CountryList.json" Line="22" Column="4" />
+      <File FileName="countrylist.api.ses/Controllers/CountryController.cs" Line="37" Column="1" />
+      <File FileName="countrylist.api.ses/Data/CountryList.json" Line="19" Column="30" />
+      <File FileName=".gitignore" Line="37" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="api.ses" expanded="True">
+          <Node name="api.ses" expanded="True" selected="True">
+            <Node name="Solution Items" expanded="True" />
             <Node name="countrylist.api.ses" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="CountryList.json" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
             </Node>
           </Node>
         </State>
